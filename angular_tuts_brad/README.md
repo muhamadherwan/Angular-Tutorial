@@ -1,5 +1,5 @@
 # Angular Tutorial Codes
 
-# angular_tuts_brad
+# angular_tuts_bradC
 
-All tutorial from https://www.youtube.com/watch?v=Fdf5aTYRW0E @ `https://www.youtube.com/watch?v=Fdf5aTYRW0E` (Traversy Media)
+All tutorial from https://www.youtube.com/watch?v=Fdf5aTYRW0E @ (Traversy Media)
